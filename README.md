@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/coding-banner.png" alt="Coding Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">Final-year IT student passionate about Full-Stack Development, Blockchain, and AI-driven solutions.</h3>
 
