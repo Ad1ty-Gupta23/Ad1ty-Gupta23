@@ -46,9 +46,6 @@
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
   </a>
-  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
-  </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/139944177?s=200&v=4" alt="langchain" width="40" height="40"/>
   </a>
