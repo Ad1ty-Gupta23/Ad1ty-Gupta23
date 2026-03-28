@@ -51,5 +51,5 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad1ty-Gupta23&show_icons=true&locale=en&layout=compact" alt="Ad1ty-Gupta23" /></p>
+<p><img align="center" src="https://avatars.githubusercontent.com/u/143590924?s=400&u=e32ae70758af6de53a76ac264f3731bd81684cdf&v=4" alt="Ad1ty-Gupta23" /></p>
 
